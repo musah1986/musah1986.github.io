@@ -1,0 +1,20 @@
+{
+  "name": "musah1986.github.io",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "musah <musah@lackmail.ru>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/musah1986/musah1986.github.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "photoswipe": "^4.1.1"
+  }
+}
